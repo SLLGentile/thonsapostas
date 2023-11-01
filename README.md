@@ -3,10 +3,12 @@
 Desenvolvedores:
 
 1. Heloísa Ribeiro
-2. Nickolas Minder
-3. Oziel Paixão
-4. Sérgio Gentile
-5. Thaís Cristina
+2. Maria Fernanda
+3. Michelle Baraçal
+4. Nickolas Minder
+5. Oziel Paixão
+6. Sérgio Gentile
+7. Thaís Cristina 
 
 Curso: Sistemas para Internet
 
